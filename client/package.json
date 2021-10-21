@@ -44,7 +44,7 @@
       "last 1 safari version"
     ]
   },
-  "proxy": "http://localhost:5000/api/",
+  "proxy": "http://34.125.174.42:5000/api/",
   "devDependencies": {
     "bcrypt": "^5.0.1",
     "react-router-dom": "^5.3.0"
