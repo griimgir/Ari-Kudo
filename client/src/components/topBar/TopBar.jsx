@@ -6,7 +6,7 @@ import "./topbar.css";
 export default function TopBar() {
     // const user = true; //{user && "LOGOUT"} if there is a user, then logout is enabled
     const { user, dispatch } = useContext(Context);
-    const PF = "http://34.125.174.42:5000/images/"
+    const PF = "http://34.125.129.102:5000/images/"
 
     const handleLogout = () => {
         dispatch({ type: "LOGOUT" });
