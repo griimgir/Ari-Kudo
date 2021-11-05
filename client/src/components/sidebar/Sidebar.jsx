@@ -40,11 +40,11 @@ export default function Sidebar() {
                 <span className="sidebarTitle">Creator of the site</span>
                 <div className="sidebarSocial">
                     <p>Ej (Parsecs)</p>
-                    {/* <p>Full-stack developer: written in JavaScript, React(frontend), MERN(backend), restAPI(database in MongoDB)</p> */}
+                    {/* <p>Full-stack developer: written in JavaScript, React(frontend), MERN(backend),(database in MongoDB)</p> */}
                     {/* <i className="sidebarIcon fab fa-github"></i> */}
                 </div>
                 <div className="sidebarSocial">
-                <p>Full-stack development - written in JavaScript, React(frontend), Express(backend), MongoDB(Database), restAPI</p>
+                <p>Full-stack development - written in JavaScript, React(frontend), Express(backend), MongoDB(Database)</p>
                 </div>
             </div>
         </div>

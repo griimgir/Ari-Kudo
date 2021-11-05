@@ -8,7 +8,7 @@ export default function Header() {
     return (
         <div className="header">
             <div className="headerTitles">
-                <span className="headerTitleSm">Happy birthday to our very special</span>
+                <span className="headerTitleSm">Happy birthday to our verie special</span>
                 <span className="headerTitleLg">Ariverie</span>
             </div>
             <img 
